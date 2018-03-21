@@ -1,2 +1,4 @@
 # hellow-world
-just another repository
+Hi Humens!
+
+Cui here,I like Node.
